@@ -3,7 +3,8 @@
 ## About Me
 
 **Name**: Sebastian Falcon
-**Website**: [http://sebastianfalcon.github.io/](http://sebastianfalcon.github.io/)
+**GitHub Website**: [http://sebastianfalcon.github.io/](http://sebastianfalcon.github.io/)
+**GitHub Repository for project** [https://github.com/sebastianfalcon/BDA594-sfalcon/](https://github.com/sebastianfalcon/BDA594-sfalcon/)
 
 ## Big Data Definition
 
